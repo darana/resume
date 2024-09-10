@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Jeremy Pollack",
-    "label": "Senior Principal at Slalom Consulting",
+    "label": "",
     "image": "",
     "email": "jeremy@pollack.io",
     "phone": "",
@@ -32,10 +32,10 @@
   },
   "work": [
     {
-      "name": "Encapsulate Design née Fat Frog Photography",
-      "position": "Photographer & Creative Director",
+      "name": "Encapsulate Design + Fat Frog Photography",
+      "position": "Photographer & Designer",
       "startDate": "2009",
-      "endDate": "2024",
+      "endDate": "",
       "highlights": [],
       "summary": "Photographer. Author. Blogger. Educator.\n\nUsing photography as a medium to open a dialogue with my viewers, sharing a vision of how I see the extraordinary beauty in the world around us.",
       "url": "https://p.jeremypollack.net"
