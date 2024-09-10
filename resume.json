@@ -146,7 +146,28 @@
       "location": "Herald Square, New York, NY"
     }
   ],
-  "volunteer": [],
+  "volunteer": [
+    {
+      "organization": "Entrepreneurship Bootcamp for Veterans",
+      "position": "Volunteer",
+      "url": "https://veterans.uconn.edu/eb/",
+      "startDate": "2011",
+      "endDate": "2013",
+      "summary": "Volunteered as 'embedded' photographer one week a year for disabled veterans’ entrepreneurship program.",
+      "highlights": [        
+      ]
+    },
+    {
+      "organization": "FIRST Robotics Competition",
+      "position": "Volunteer",
+      "url": "https://www.firstinspires.org/robotics/frc",
+      "startDate": "2010",
+      "endDate": "2012",
+      "summary": "Volunteer photography for regional competitions.",
+      "highlights": [        
+      ]
+    }
+  ],
   "education": [
     {
       "institution": "The University of Connecticut",
@@ -157,16 +178,6 @@
       "score": "",
       "courses": [],
       "url": "https://uconn.edu"
-    },
-    {
-      "institution": "EDUCAUSE Institute",
-      "area": "Management Development Program",
-      "studyType": "Certificate",
-      "startDate": "2012-05",
-      "endDate": "2012-05",
-      "score": "",
-      "courses": [],
-      "url": "https://events.educause.edu/educause-institute"
     },
     {
       "institution": "Rutgers University",
@@ -184,6 +195,26 @@
       "studyType": "Certificate",
       "startDate": "2014-01",
       "endDate": "2014-01",
+      "score": "",
+      "courses": [],
+      "url": "https://events.educause.edu/educause-institute"
+    },
+    {
+      "institution": "EDUCAUSE Institute",
+      "area": "Management Development Program",
+      "studyType": "Certificate",
+      "startDate": "2012-05",
+      "endDate": "2012-05",
+      "score": "",
+      "courses": [],
+      "url": "https://events.educause.edu/educause-institute"
+    },
+    {
+      "institution": "EDUCAUSE Institute",
+      "area": "Management Development Program",
+      "studyType": "Certificate",
+      "startDate": "2012-05",
+      "endDate": "2012-05",
       "score": "",
       "courses": [],
       "url": "https://events.educause.edu/educause-institute"
@@ -208,11 +239,11 @@
     }
   ],
   "publications": [
-        {
+    {
       "name": "Photographing New York City Digital Field Guide",
       "publisher": "Wiley Publishing",
-      "releaseDate": "2010-12-31",
-      "summary": "http://amzn.to/1MOiHwJ\n\nTake memorable photos of the most popular attractions in the Big Apple!\n\nWhether using a point-and-shoot or a high-end dSLR, this companion guide provides you with detailed information for taking amazing shots of one of one of the world's most photographed cities. Whether you aim to capture the regal Empire State Building, vibrant Times Square, historic Grand Central Station, massive Central Park, or one of New York City's many other landmarks, this portable resource goes where you go and walks you through valuable tips and techniques for taking the best shot possible.\n\nYou'll discover suggested locations for taking photos, recommended equipment, what camera settings to use, best times of day to photograph specific attractions, how to handle weather challenges, and more. In addition, beautiful images of New York City's most breathtaking attractions and recognizable landmarks serve to both inspire and assist you as you embark on an amazing photographic adventure!",
+      "releaseDate": "2010-05-17",
+      "summary": "http://amzn.to/dfgnyc | ISBN:978-0470586853\n\nTake memorable photos of the most popular attractions in the Big Apple!\n\nWhether using a point-and-shoot or a high-end dSLR, this companion guide provides you with detailed information for taking amazing shots of one of one of the world's most photographed cities. Whether you aim to capture the regal Empire State Building, vibrant Times Square, historic Grand Central Station, massive Central Park, or one of New York City's many other landmarks, this portable resource goes where you go and walks you through valuable tips and techniques for taking the best shot possible.\n\nYou'll discover suggested locations for taking photos, recommended equipment, what camera settings to use, best times of day to photograph specific attractions, how to handle weather challenges, and more. In addition, beautiful images of New York City's most breathtaking attractions and recognizable landmarks serve to both inspire and assist you as you embark on an amazing photographic adventure!",
       "url": "http://amzn.to/dfgnyc"
     },
     {
@@ -481,7 +512,15 @@
     {
       "name": "Industries",
       "level": "",
-      "keywords": ["Fortune 500","Financial Services","Consumer Brands","Government","Healthcare","Retail","Higher Education"]
+      "keywords": [
+        "Fortune 500",
+        "Financial Services",
+        "Consumer Brands",
+        "Government",
+        "Healthcare",
+        "Retail",
+        "Higher Education"
+      ]
     },
     {
       "name": "E-commerce",
@@ -537,14 +576,57 @@
   "languages": [
     {
       "language": "English",
-      "fluency": "Native Speaker",
+      "fluency": "Native Speaker"    
+    },
+    {
       "language": "Visual Communication",
       "fluency": "Native Speaker"      
     }
   ],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Photography",
+      "keywords": [        
+      ]
+    },
+    {
+      "name": "History",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Voracious Reader",
+      "keywords": [
+      ]
+    }
+  ],
   "references": [],
-  "projects": [],
+  "projects": [
+    {
+      "name": "Speaker + Presenter",
+      "startDate": "2010",
+      "endDate": "2023",
+      "description": "Speaker at various industry and corporate conferences and events",
+      "highlights": [
+        "EDUCAUSE Conference",
+        "EDUCAUSE Enterprise IT CIO Summit",
+        "NERCOMP",
+        "Dell World",
+        "VMWare CT VMug",
+        "Unidesk Webinars & User’s Group",
+        "B&H Photo",
+        "Miro Annual"        
+      ]
+    },
+    {
+      "name": "Instructor / Trainer for Adobe",
+      "startDate": "2010",
+      "endDate": "2014",
+      "description": "Developed and presented custom training content for key Adobe partners, including B&H Photo",
+      "highlights": [              
+      ]
+    }
+  ],
   "meta": {
     "version": "v1.0.0",
     "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
