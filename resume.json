@@ -481,7 +481,7 @@
     {
       "name": "Industries",
       "level": "",
-      "keywords": ["Fortune 500","Financial Services","Consumer Brands","Government","Healthcare","Retail","Higher Education",]
+      "keywords": ["Fortune 500","Financial Services","Consumer Brands","Government","Healthcare","Retail","Higher Education"]
     },
     {
       "name": "E-commerce",
@@ -539,8 +539,7 @@
       "language": "English",
       "fluency": "Native Speaker",
       "language": "Visual Communication",
-      "fluency": "Native Speaker",
-      
+      "fluency": "Native Speaker"      
     }
   ],
   "interests": [],
