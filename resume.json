@@ -6,7 +6,7 @@
     "image": "",
     "email": "jeremy@pollack.io",
     "phone": "",
-    "url": "",
+    "url": "https://jeremypollack.net",
     "summary": "The common thread through my diverse sector experience in business strategy, technology, and experience design is a deep passion for innovation and creativity supported by an analytical mindset, bias towards strategic thinking, and strong technical foundations.\n\nI'm a lifelong learner with an incessant curiosity that is focused on the opportunities where technology, strategy, and culture converge. \n\nAreas of Expertise\n▹\tPragmatic innovation / Creativity\n▹\tStrategic planning / Strategy development\n▹\tBusiness architecture\n▹\tDesign thinking\n▹\tEmerging technologies + market opportunities\n▹\tAgile frameworks / SDLC project management\n▹\tVisual communication / Graphic design\n▹\tChange management + behavior-change models\n▹\tTraining development + delivery / instructional design\n\nGeneral Skills: Breaking Stuff\nSpecialties: Breaking stuff real good\nExpertise: Fixing broken stuff better than before",
     "location": {
       "countryCode": "US",
@@ -34,11 +34,11 @@
     {
       "name": "Encapsulate Design née Fat Frog Photography",
       "position": "Photographer & Creative Director",
-      "startDate": "2009-01-31",
-      "endDate": "",
+      "startDate": "2009",
+      "endDate": "2024",
       "highlights": [],
       "summary": "Photographer. Author. Blogger. Educator.\n\nUsing photography as a medium to open a dialogue with my viewers, sharing a vision of how I see the extraordinary beauty in the world around us.",
-      "url": ""
+      "url": "https://p.jeremypollack.net"
     },
     {
       "name": "Slalom",
@@ -56,7 +56,7 @@
         ""
       ],
       "summary": "Solutions include digital transformation strategies for business and IT with business case development; cloud-first operating + organizational models; modern data + analytics solution for HR; and analytic capability transformations. Drive success by building cross-functional alignment and connecting with a deep understanding of business strategy to map paths from current and future state.",
-      "url": "https://www.linkedin.com/company/slalom-consulting/",
+      "url": "https://slalom.com",
       "location": "Hartford, Connecticut Area"
     },
     {
@@ -161,8 +161,8 @@
       "institution": "Rutgers University",
       "area": "User Experience Design",
       "studyType": "Mini-Masters Certificate",
-      "startDate": "",
-      "endDate": "2018-12-31",
+      "startDate": "2018-06",
+      "endDate": "2018-06",
       "score": "",
       "courses": []
     },
@@ -179,8 +179,8 @@
       "institution": "EDUCAUSE Institute",
       "area": "",
       "studyType": "CIO Leadership Development Program",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "2014-01",
+      "endDate": "2014-01",
       "score": "",
       "courses": []
     }
@@ -213,14 +213,14 @@
     },
     {
       "name": "Light, Color & Gesture in Photography",
-      "publisher": null,
+      "publisher": "Tolland Academy of the Arts",
       "releaseDate": "2013-04-30",
       "summary": "Photography is the art of light. At its most basic, a photograph is capturing light and recording it on a two dimensional plane. As one proceeds down your photographic journey, you begin to recognize hugely varying qualities of light, and how light, and the absence of light, can define a scene and am image. As my friend Rick Sammon often says, “Light illuminates, Shadows define.”\n\nColor and light are as intricately linked as, well, electricity and magnetism. My geek readers will appreciate the analogy… or lack of analogy. The range and strength of color can draw your attention, bring memories to the forefront, or drive your attention to vacillate between two complementary colors in a scene. Even the lack of color in a black and white image is important, as our expectations and experiences will let us fill in what we expect to see in our mind’s eye.\n\nLight and Color are the two aspects for which most photographers and viewers are most familiar, even if they have not thought of them as explicitly defined in this way. The final component, however, is just as important but less commonly thought of as a direct function of an image.\n\nWhat is Gesture? Gesture is movement, an expression, an essence. Gesture is most easily explained in the context of an image of a person but is not constrained there. In fact, what I personally found the most moving, and challenging, is the extension of Gesture to inanimate objects.",
       "url": "http://jeremypollack.net/tag/aot2013/"
     },
     {
       "name": "The UConn vPC: A Collaborative Story about Desktop Virtualization",
-      "publisher": null,
+      "publisher": "EDUCAUSE Institute",
       "releaseDate": "2012-03-14",
       "summary": "The UConn vPC is a collaborative IT project among the UConn School of Business, the School of Engineering, and the University Libraries. The project delivered virtual desktops to UConn students beginning the fall semester of 2011. Students now have access to UConn-licensed applications from their PCs, Macs, and mobile devices from anywhere in the world where they have Internet access. This session discusses both the technology behind the service and the collaboration between the academic units that built a scalable, centralized service. An overview of the service can be found at http://vpc.uconn.edu.",
       "url": "http://digitalcommons.uconn.edu/libr_pres/36/"
