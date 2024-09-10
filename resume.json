@@ -1,236 +1,546 @@
 {
-  "meta": {
-    "theme": "elegant"
-  },
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "Thomas Davis",
-    "label": "Web Developer",
-    "image": "https://avatars0.githubusercontent.com/u/416209?s=460&u=38f220a2c9c658141804f881c334c594eb1642ac&v=4",
-    "summary": "I'm a full stack web developer who can build apps from the ground up. I've worked mostly at startups so I am used to wearing many hats. I am a very product focussed developer who priotizes user feedback first and foremost. I'm generally very flexible when investigating new roles. ",
-    "website": "https://lordajax.com",
-    "email": "thomasalwyndavis@gmail.com",
+    "name": "Jeremy Pollack",
+    "label": "Senior Principal at Slalom Consulting",
+    "image": "",
+    "email": "jeremy@pollack.io",
+    "phone": "",
+    "url": "",
+    "summary": "The common thread through my diverse sector experience in business strategy, technology, and experience design is a deep passion for innovation and creativity supported by an analytical mindset, bias towards strategic thinking, and strong technical foundations.\n\nI'm a lifelong learner with an incessant curiosity that is focused on the opportunities where technology, strategy, and culture converge. \n\nAreas of Expertise\n▹\tPragmatic innovation / Creativity\n▹\tStrategic planning / Strategy development\n▹\tBusiness architecture\n▹\tDesign thinking\n▹\tEmerging technologies + market opportunities\n▹\tAgile frameworks / SDLC project management\n▹\tVisual communication / Graphic design\n▹\tChange management + behavior-change models\n▹\tTraining development + delivery / instructional design\n\nGeneral Skills: Breaking Stuff\nSpecialties: Breaking stuff real good\nExpertise: Fixing broken stuff better than before",
     "location": {
-      "city": "Melbourne",
-      "countryCode": "AU"
+      "countryCode": "US",
+      "address": "United States"
     },
     "profiles": [
       {
-        "username": "ajaxdavis",
-        "url": "https://twitter.com/ajaxdavis",
-        "network": "twitter"
+        "network": "LinkedIn",
+        "username": "jeremypollack",
+        "url": "https://www.linkedin.com/in/jeremypollack/"
       },
       {
-        "url": "https://github.com/thomasdavis",
-        "username": "thomasdavis",
-        "network": "github"
+        "network": "Github",
+        "username": "darana",
+        "url": "https://github.com/darana"
+      },
+      {
+        "network": "Twitter",
+        "username": "jeremypollack",
+        "url": "https://twitter.com/jeremypollack"
       }
     ]
   },
-  "education": [
+  "work": [
     {
-      "endDate": "2009-12-12",
-      "startDate": "2008-02-12",
-      "area": "Software Engineering (incomplete)",
-      "studyType": "Bachelors",
-      "institution": "The University of Queensland"
+      "name": "Encapsulate Design née Fat Frog Photography",
+      "position": "Photographer & Creative Director",
+      "startDate": "2009-01-31",
+      "endDate": "",
+      "highlights": [],
+      "summary": "Photographer. Author. Blogger. Educator.\n\nUsing photography as a medium to open a dialogue with my viewers, sharing a vision of how I see the extraordinary beauty in the world around us.",
+      "url": ""
+    },
+    {
+      "name": "Slalom",
+      "position": "Senior Delivery Principal",
+      "startDate": "2018-04-30",
+      "endDate": "2023-09-30",
+      "highlights": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "summary": "Solutions include digital transformation strategies for business and IT with business case development; cloud-first operating + organizational models; modern data + analytics solution for HR; and analytic capability transformations. Drive success by building cross-functional alignment and connecting with a deep understanding of business strategy to map paths from current and future state.",
+      "url": "https://www.linkedin.com/company/slalom-consulting/",
+      "location": "Hartford, Connecticut Area"
+    },
+    {
+      "name": "Criscara",
+      "position": "Managing Director",
+      "startDate": "2014-06-30",
+      "endDate": "2019-08-31",
+      "highlights": [
+        "Led fast-growing ecommerce fashion start-up. Oversaw business strategy + operations, B2C + B2B marketing + sales, customer acquisition, IT operations, and financials. Built operating model to support highly efficient operations + growth.",
+        "Developed lean manufacturing processes utilizing Kanban framework + agile development; evolved from integrated to modular manufacturing processes to adapt to anticipated marketplace shifts and enable a novel B2B sales strategy.",
+        "Identified operational value streams + continuously defined business strategies utilizing business model canvas.",
+        "Built brand by executing multi-channel PR + marketing strategy across print + digital, influencer marketing, social media; leveraged marketing automation + CRM tools to support scalable sales + relationship management.",
+        "And making coffee."
+      ],
+      "summary": "As Managing Director / co-founder of fashion jewelry brand Criscara, my role can best be described as (d) All of the Above.",
+      "url": "https://criscara.com",
+      "location": "Tolland, CT"
+    },
+    {
+      "name": "Silver Fern Healthcare",
+      "position": "Chief Innovation & Technology Officer",
+      "startDate": "2013-11-30",
+      "endDate": "2014-12-31",
+      "highlights": [
+        "Translated complex solution into accessible concepts, language, and content for funding presentations + B2B marketing.",
+        "Pitched for pre-revenue funding to venture capital, Fortune 100 strategic partners, and angel investors.",
+        "Built connections across innovation, business, and research ecosystems, including direct outreach + conferences.",
+        "Developed business models + business capabilities; modeled target customers’ revenue + value streams.",
+        "Developed functional prototypes, e.g. UX/UI and patient-success videos for product alpha + investor presentations."        
+      ],
+      "summary": "Strategic platform and marketing responsibility for healthcare technology start-up. Developed product roadmap blending successful research on psychosocial behavior change models with business, technology, and healthcare market needs.",
+      "url": "https://www.linkedin.com/company/silver-fern-healthcare/",
+      "location": "West Hartford, CT"
+    },
+    {
+      "name": "University of Connecticut",
+      "position": "Director of Information & Communications Technology, School of Business",
+      "startDate": "2010-10-31",
+      "endDate": "2014-02-28",
+      "highlights": [
+        "Created enterprise operating model and guiding principles that facilitated strategic goals of School of Business.",
+        "Implemented Run/Grow/Transform framework for asset + budgetary responsibility of $7M+ with eight direct reports.",
+        "Established lean project management practices; managed projects with budgets up to $1.4M.",
+        "Championed physical + virtual spaces that fostered a culture of innovation, e.g. distance education, common + team collaboration rooms, and mobile VOIP + video conferencing.",
+        "Launched + led UConn Skybox project, which provided virtual desktops for 30k students’ lab, remote, and in-class usage, resulting in improved accessibility + support, reduced costs, physical space-savings, and online + distance ed.",
+        "Championed innovative collaboration tools + capabilities supporting shared strategic goals across siloed business units, e.g. funded GitHub Enterprise, negotiated Microsoft and Adobe Campus Agreements, ran distance education pilots.",
+        "Led implementation of university-wide graduate student application tool, Hobson's ApplyYourself!. Facilitated creation of shared process, goals, and strategy across eight departments; developed shared data catalog.",
+        "Led steering committee + authored UConn IT Help Desk initiative; UConn Board of Trustees ratified as strategic goal."
+      ],
+      "summary": "Led ICT department at School of Business. Translated vision of UConn and School of Business into direction, strategy, and long-term planning; restructured department to align to mission. Executed initiatives to achieve tactical + strategic goals. Led joint strategic initiatives to benefit the University of Connecticut and the School of Business.",
+      "url": "https://www.linkedin.com/school/university-of-connecticut/",
+      "location": "Storrs, CT"
+    },
+    {
+      "name": "University of Connecticut",
+      "position": "Server & Security Manager / Client Services Manager",
+      "startDate": "2004-06-30",
+      "endDate": "2010-10-31",
+      "highlights": [
+        "Built Digital Media Center classrooms + render farm infrastructure for Storrs + Stamford campuses.",
+        "Designed + implemented geo-clustered infrastructure across UConn locations + AWS, MSSQL 2008, Exchange 2010, FC + iSCSI SANs, VMWare 3.5+ 4.x, PRTG, DPM 2010, 10Gbit networking, AD 2008 R2, and multi-site DR.",
+        "Implemented ITIL-based change management protocols + documentation standards. Implemented new help desk.",
+        "Responsible for systems deployment, level-3 support, and customer training.",
+        "Developed + deployed user-training and technical support structure for student Mobile Computer Program, which enabled a consistent compute platform against which faculty could reliable develop coursework."
+      ],
+      "summary": "Responsible for 24/7 operations of IT services and security, L3 support + training. Four direct reports + 15 student techs.\n▹\tBuilt Digital Media Center classrooms + render farm infrastructure for Storrs + Stamford campuses.\n▹\tDesigned + implemented geo-clustered infrastructure across UConn locations + AWS, MSSQL 2008, Exchange 2010, FC + iSCSI SANs, VMWare 3.5+ 4.x, PRTG, DPM 2010, 10Gbit networking, AD 2008 R2, and multi-site DR.\n▹\tImplemented ITIL-based change management protocols + documentation standards. Implemented new help desk.\n▹\tResponsible for systems deployment, level-3 support, and customer training. \n▹\tDeveloped + deployed user-training and technical support structure for student Mobile Computer Program, which enabled a consistent compute platform against which faculty could reliable develop coursework.",
+      "url": "https://www.linkedin.com/school/university-of-connecticut/"
+    },
+    {
+      "name": "Computer Sciences Corporation",
+      "position": "Technical Delivery Lead / Site Coordinator ",
+      "startDate": "2000-12-31",
+      "endDate": "2004-01-31",
+      "highlights": [],
+      "summary": "Represented CSC at Carrier’s headquarters. Coordinated desktop, network, and server support operations; managed six staff. Accountable for relationship management with 200+ executives + engineers. Managed projects + maintained high customer satisfaction; personal on + offsite IT support for CEO + C-level executive leadership.",
+      "url": "https://www.linkedin.com/company/csc/",
+      "location": "Carrier Corporation, United Technologies, Farmington, CT"
+    },
+    {
+      "name": "Macy's",
+      "position": "System and Network Administrator",
+      "startDate": "1997-12-31",
+      "endDate": "1998-12-31",
+      "highlights": [],
+      "summary": "Designed & deployed network, clients, and servers for 40-user in-house graphic & packaging design department.",
+      "url": "https://www.linkedin.com/company/macy/",
+      "location": "Herald Square, New York, NY"
     }
   ],
-  "references": [
+  "volunteer": [],
+  "education": [
     {
-      "reference": "Thomas was hired as a lead developer and, upon the leaving of our co-founder took over as CTO of Earbits. Thomas is, hands down, one of those A Players you hear of companies dying to hire. He is incredibly smart, not just at code but about everything from classical music to Chinese language and culture. Thomas is great to work with and, as a well established contributor to open source projects and several successful ventures, commands the respect of engineers at all levels. I would suggest doing anything you can to have him on your team.",
-      "name": "Joey Flores, Co-founder and CEO of Earbits, Inc."
+      "institution": "EDUCAUSE Institute",
+      "area": "",
+      "studyType": "Management Development Program",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
     },
     {
-      "reference": "I've had the great pleasure of working with Thomas for the past three years at Earbits, and on a few side projects. Two years ago our CTO left on a moment's notice, Thomas saved our company by quickly stepping up to fill this role. He has been with our company through thick and thin and made serious personal sacrifices in order to help the company during tough times. He is a phenomenal hacker and a true team player. Highly recommended!",
-      "name": "Yotam Rosenbaum, SVP of Operations, Earbits, Inc."
+      "institution": "Rutgers University",
+      "area": "User Experience Design",
+      "studyType": "Mini-Masters Certificate",
+      "startDate": "",
+      "endDate": "2018-12-31",
+      "score": "",
+      "courses": []
     },
     {
-      "reference": "Thomas is an extremely talented engineer with a very broad range of skills and experience. From being a thought leader in the front-end community via backbonetutorials.com and cdnjs.com, to designing and implementing the API for cdnjs.com, working with Thomas has been fantastic learning experience. Thomas is truly a full stack develop, and his work output is incredible. If there is any opportunity to work with Thomas, I take it. He is the definition of an A player.",
-      "name": "Ryan Kirkman, Senior Software Engineer at Nerdwallet"
+      "institution": "The University of Connecticut",
+      "area": "MIS",
+      "studyType": "BS",
+      "startDate": "1996-09",
+      "endDate": "2000-05",
+      "score": "",
+      "courses": []
     },
     {
-      "reference": "On Thomas Davis... Hire this guy. Do not be fooled. Incredibly capable and fast. Plays well with others. Unbelievable at front-end work end programming but that is just the start. Visionary. Hire him before I do.",
-      "name": "Greg Davis"
+      "institution": "EDUCAUSE Institute",
+      "area": "",
+      "studyType": "CIO Leadership Development Program",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "sUAS (Drone) Pilot Rating",
+      "issuer": "Federal Aviation Administration",
+      "startDate": "2017-12-31"
+    },
+    {
+      "name": "Project Management MBA",
+      "issuer": "Project Management Institute"
+    },
+    {
+      "name": "Professional Scrum Master I (PSMI)",
+      "issuer": "Scrum.org",
+      "startDate": "2018-02-28",
+      "url": "https://www.scrum.org/user/322376"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Leading Change from the Edge",
+      "publisher": "EDUCAUSE Enterprise IT CIO Summit 2013",
+      "releaseDate": "2013-07-31",
+      "summary": "Higher Education is changing rapidly, and as technologists we need to be willing to change with it and lead when appropriate. There is an opportunity to lead rapid change and innovation pursuing distributed, collaborative, transformative projects.",
+      "url": "https://prezi.com/s7pfbkaraue1/educause-enterprise-it-2013/"
+    },
+    {
+      "name": "Light, Color & Gesture in Photography",
+      "publisher": null,
+      "releaseDate": "2013-04-30",
+      "summary": "Photography is the art of light. At its most basic, a photograph is capturing light and recording it on a two dimensional plane. As one proceeds down your photographic journey, you begin to recognize hugely varying qualities of light, and how light, and the absence of light, can define a scene and am image. As my friend Rick Sammon often says, “Light illuminates, Shadows define.”\n\nColor and light are as intricately linked as, well, electricity and magnetism. My geek readers will appreciate the analogy… or lack of analogy. The range and strength of color can draw your attention, bring memories to the forefront, or drive your attention to vacillate between two complementary colors in a scene. Even the lack of color in a black and white image is important, as our expectations and experiences will let us fill in what we expect to see in our mind’s eye.\n\nLight and Color are the two aspects for which most photographers and viewers are most familiar, even if they have not thought of them as explicitly defined in this way. The final component, however, is just as important but less commonly thought of as a direct function of an image.\n\nWhat is Gesture? Gesture is movement, an expression, an essence. Gesture is most easily explained in the context of an image of a person but is not constrained there. In fact, what I personally found the most moving, and challenging, is the extension of Gesture to inanimate objects.",
+      "url": "http://jeremypollack.net/tag/aot2013/"
+    },
+    {
+      "name": "The UConn vPC: A Collaborative Story about Desktop Virtualization",
+      "publisher": null,
+      "releaseDate": "2012-03-14",
+      "summary": "The UConn vPC is a collaborative IT project among the UConn School of Business, the School of Engineering, and the University Libraries. The project delivered virtual desktops to UConn students beginning the fall semester of 2011. Students now have access to UConn-licensed applications from their PCs, Macs, and mobile devices from anywhere in the world where they have Internet access. This session discusses both the technology behind the service and the collaboration between the academic units that built a scalable, centralized service. An overview of the service can be found at http://vpc.uconn.edu.",
+      "url": "http://digitalcommons.uconn.edu/libr_pres/36/"
+    },
+    {
+      "name": "Photographing New York City Digital Field Guide",
+      "publisher": "Wiley Publishing",
+      "releaseDate": "2010-12-31",
+      "summary": "http://amzn.to/1MOiHwJ\n\nTake memorable photos of the most popular attractions in the Big Apple!\n\nWhether using a point-and-shoot or a high-end dSLR, this companion guide provides you with detailed information for taking amazing shots of one of one of the world's most photographed cities. Whether you aim to capture the regal Empire State Building, vibrant Times Square, historic Grand Central Station, massive Central Park, or one of New York City's many other landmarks, this portable resource goes where you go and walks you through valuable tips and techniques for taking the best shot possible.\n\nYou'll discover suggested locations for taking photos, recommended equipment, what camera settings to use, best times of day to photograph specific attractions, how to handle weather challenges, and more. In addition, beautiful images of New York City's most breathtaking attractions and recognizable landmarks serve to both inspire and assist you as you embark on an amazing photographic adventure!",
+      "url": "http://amzn.to/dfgnyc"
     }
   ],
   "skills": [
     {
-      "keywords": [
-        "HTML / JSX",
-        "SCSS / CSS / BEM / Styled Components",
-        "Javascript / Typescript",
-        "React / Next",
-        "Redux / Apollo"
-      ],
-      "level": "Senior",
-      "name": "Frontend"
+        "name": "Pragmatic innovation / Creativity",
+        "level": "",
+        "keywords": []
     },
     {
-      "keywords": ["Node", "Ruby", "Python", "Postgres", "Redis", "Serverless"],
-      "level": "Senior",
-      "name": "Backend"
+        "name": "Strategic planning / Strategy development",
+        "level": "",
+        "keywords": []
     },
     {
-      "keywords": ["AWS", "G Cloud", "Heroku", "Caching"],
-      "level": "Senior",
-      "name": "Devops"
+        "name": "Business architecture",
+        "level": "",
+        "keywords": []
+    },
+    {
+        "name": "Design thinking",
+        "level": "",
+        "keywords": []
+    },
+    {
+        "name": "Emerging technologies + market opportunities",
+        "level": "",
+        "keywords": []
+    },
+    {
+        "name": "Agile frameworks / SDLC project management",
+        "level": "",
+        "keywords": []
+    },
+    {
+        "name": "Visual communication / Graphic design",
+        "level": "",
+        "keywords": []
+    },
+    {
+        "name": "Change management + behavior-change models",
+        "level": "",
+        "keywords": []
+    },
+    {
+        "name": "Training development + delivery / instructional design",
+        "level": "",
+        "keywords": []
+    },
+    {
+      "name": "Instructional Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft PowerPoint",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Lucidchart",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Miro Collaboration Platform",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Marketing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Team Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Business Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Creative Visualization",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Architecture Reviews",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Prototyping",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Brand Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Communication",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Voice of the Customer",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "User Experience",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Visual Communication",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Digital Strategy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Facilitation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Strategy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Writing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Strategic Planning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Strategic Partnerships",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Creativity",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Business Process Improvement",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Graphic Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Public Speaking",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Enterprise Architecture",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Service Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Training",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Digital Transformation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Presentations",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Digital Media",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Business Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Emerging Technologies",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Product Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Photography",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Innovation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Business Architecture",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Business Strategy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Retail",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "E-commerce",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Agile",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Customer Success",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Digital Marketing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Business Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Design Thinking",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Experience Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Problem Solving",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "IT Strategy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Higher Education",
+      "level": "",
+      "keywords": []
     }
   ],
-  "awards": [
+  "languages": [
     {
-      "title": "Defender of the Internet",
-      "awarder": "Fight For The Future"
+      "language": "English",
+      "fluency": "Native Speaker"
     }
   ],
-  "work": [
-    {
-      "summary": "Tokenized is a Bitcoin wallet for issuing, managing and trading digital tokens. I built out the front end which was packaged as an electron app. It was a difficult frontend to build because we store the users keys locally and used them to sign transactions and contracts.",
-      "website": "https://tokenized.com/",
-      "name": "Tokenized",
-      "location": "Melbourne",
-      "position": "Senior Javascript Developer",
-      "startDate": "2020-05-05",
-      "highlights": ["React", "Redux", "SCSS", "Product"]
-    },
-    {
-      "summary": "Blockbid is an Australian crypto currency exchange. I started off on the frontend but eventually became lead tech and worked on every moving piece of the exchange. I really enjoyed working with liquidity providers and connecting their platforms to help us achieve liquid markets.",
-      "website": "https://platform.blockbid.io",
-      "name": "Blockbid",
-      "location": "Melbourne",
-      "position": "Senior Javascript Developer",
-      "startDate": "2018-03-01",
-      "endDate": "2020-01-01",
-      "highlights": [
-        "React, Apollo, Styled Components",
-        "Node.js / Rails",
-        "Docker / Heroku / GCP",
-        "Used Figma for design and UX work",
-        "Optimizing markets with tens of millions of rows using SQL."
-      ]
-    },
-    {
-      "highlights": [
-        "Worked with Postgres, Redis and Dynamodb for storage.",
-        "Hosted on a mixture of Heroku Apps and EC2 servers.",
-        "Caching by Fastly and Cloudflare",
-        "Hybrid app supported on all platforms"
-      ],
-      "summary": "Built a very large and complex React / Redux application. It works on all platforms and has IOS/Android builds due to it being a PWA. (wrapped it in React Native though only implementing a WebView)",
-      "website": "https://listium.com",
-      "pinned": true,
-      "name": "Listium",
-      "position": "Developer",
-      "startDate": "2016-01-01",
-      "endDate": "2018-01-01"
-    },
-    {
-      "highlights": [
-        "Millions of sites use the CDN in production",
-        "Larger market share than Yahoo's, Microsoft's and Google's javascript content distribution networks",
-        "We serve hundreds of billions request a month",
-        "Contains over 3000 popular Javascript libraries",
-        "Millions of developers visit the site per year"
-      ],
-      "pinned": true,
-      "summary": "Following Google's CDN for jQuery, we decided to start a CDN for the less popular Javascript frameworks. The CDN is community moderated and open source on GitHub. We secured a partnership with Cloudflare who now supports the infrastructure.",
-      "website": "http://www.cdnjs.com",
-      "name": "Cdnjs",
-      "position": "Co-Founder",
-      "startDate": "2011-01-08"
-    },
-    {
-      "highlights": [
-        "Developed new tools for contacting congress",
-        "Brainstormed campaign ideas to raise maximum awareness about issues",
-        "Lots of social networking integration"
-      ],
-      "summary": "Hired to take EFF's campaigning to the next level by building an action centre in Ruby on Rails. The action centre is built around some large open source tools that lower the barrier to entry when contacting congress.",
-      "website": "http://www.eff.org",
-      "name": "Electronic Frontier Foundation",
-      "position": "Developer",
-      "startDate": "2014-04-01",
-      "endDate": "2016-01-01"
-    },
-    {
-      "highlights": [
-        "Managed a small team of developers and designers",
-        "Built the entire frontend application with Backbone.js",
-        "Transferred all of the infrastructure from Heroku to AWS"
-      ],
-      "summary": "Started off as a front end developer but took on the role of CTO in early 2013. The application frontend is built with Javascript and organized as a single page application that talks to a collection of Rails web servers which are connected to MongoDB.",
-      "website": "http://www.earbits.com",
-      "name": "Earbits",
-      "position": "CTO",
-      "endDate": "2015-01-09",
-      "startDate": "2013-03-08"
-    },
-    {
-      "highlights": ["This resume is built with JSON Resume", "Over 3000 stars on Github", "Community developed themes", "Tens of thousands of users"],
-      "summary": "JSON Resume is a community driven open source initiative to create a JSON based standard for resumes. There is no reason why there can't be a common standard for writing a resume that can be extended with an ecosystem of open source tools.",
-      "website": "http://jsonresume.org",
-      "pinned": true,
-      "name": "JSON Resume",
-      "position": "Founder",
-      "startDate": "2014-04-01"
-    },
-    {
-      "highlights": [
-        "Generated  37,000,000 banner views",
-        "100, 000 phone calls to congress",
-        "500, 000 emails",
-        "250, 000 signatures"
-      ],
-      "summary": "Worked on many politically charged campaigns against mass surveillance. Not only technically challenging work but also a lot of networking and getting my hands dirty with politics.    Our biggest project was \"TheDayWeFightBack\"..",
-      "website": "http://www.taskforce.is",
-      "name": "Taskforce.is",
-      "position": "Developer",
-      "startDate": "2013-06-01",
-      "endDate": "2016-01-01"
-    },
-    {
-      "highlights": [
-        "The site and blog combined have managed to receive over 200,000 visitors in 2014."
-      ],
-      "summary": "An international directory of civilian drone / UAV operators for hire. Services include aerial photography, aerial video, mapping, surveying, precision agriculture, real estate photography, remote inspections and infrared imaging. Our plan is to be the place to go when looking for UAV/Drone services. The website is built in Backbone.js and API is built with Node.js and Postgres. ",
-      "website": "http://www.dronehire.org",
-      "name": "Drone Hire",
-      "position": "Co-Founder",
-      "startDate": "2013-01-01"
-    },
-    {
-      "highlights": [
-        "Over two million unique visitors a year",
-        "25,000+ ebook downloads",
-        "300,000+ Youtube views"
-      ],
-      "summary": "I write tutorials and blog post regarding the popular Javascript framework Backbone.js. The tutorials cover a range of topics regarding front end development aimed at beginners, experts and anyone in between.",
-      "website": "http://backbonetutorials.com",
-      "name": "BackboneTutorials.com",
-      "position": "Founder",
-      "startDate": "2011-01-01",
-      "endDate": "2014-01-01"
-    },
-    {
-      "summary": "Ephox is a worldwide company who is heavily involved with the development of TinyMce and enterprise editors. My primary role included building front-end widgets and applications. Worked on a major product using Backbone.js as a base. Heavily involved in UI/UX design and wire-framing. Also spend a lot of time designing API specifications and documentation.",
-      "website": "http://ephox.com",
-      "name": "Ephox",
-      "position": "Front-end Developer",
-      "endDate": "2012-06-01",
-      "startDate": "2011-01-01"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Gardening"
-    },
-    {
-      "name": "Music / Jamming"
-    },
-    {
-      "name": "Reading / Writing"
-    },
-    {
-      "name": "Open Source"
-    }
-  ]
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
 }
