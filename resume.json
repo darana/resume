@@ -149,13 +149,24 @@
   "volunteer": [],
   "education": [
     {
+      "institution": "The University of Connecticut",
+      "area": "Management Information Systems (MIS)",
+      "studyType": "Bachelor's of Science",
+      "startDate": "1996-09",
+      "endDate": "2000-05",
+      "score": "",
+      "courses": [],
+      "url": "https://uconn.edu"
+    },
+    {
       "institution": "EDUCAUSE Institute",
       "area": "Management Development Program",
-      "studyType": "",
+      "studyType": "Certificate",
       "startDate": "2012-05",
       "endDate": "2012-05",
       "score": "",
-      "courses": []
+      "courses": [],
+      "url": "https://events.educause.edu/educause-institute"
     },
     {
       "institution": "Rutgers University",
@@ -164,25 +175,18 @@
       "startDate": "2018-06",
       "endDate": "2018-06",
       "score": "",
-      "courses": []
-    },
-    {
-      "institution": "The University of Connecticut",
-      "area": "MIS",
-      "studyType": "BS",
-      "startDate": "1996-09",
-      "endDate": "2000-05",
-      "score": "",
-      "courses": []
-    },
+      "courses": [],
+      "url": "https://rutgersuxd.com"
+    },    
     {
       "institution": "EDUCAUSE Institute",
-      "area": "",
-      "studyType": "CIO Leadership Development Program",
+      "area": "CIO Leadership Development Program",
+      "studyType": "Certificate",
       "startDate": "2014-01",
       "endDate": "2014-01",
       "score": "",
-      "courses": []
+      "courses": [],
+      "url": "https://events.educause.edu/educause-institute"
     }
   ],
   "awards": [],
@@ -204,19 +208,19 @@
     }
   ],
   "publications": [
+        {
+      "name": "Photographing New York City Digital Field Guide",
+      "publisher": "Wiley Publishing",
+      "releaseDate": "2010-12-31",
+      "summary": "http://amzn.to/1MOiHwJ\n\nTake memorable photos of the most popular attractions in the Big Apple!\n\nWhether using a point-and-shoot or a high-end dSLR, this companion guide provides you with detailed information for taking amazing shots of one of one of the world's most photographed cities. Whether you aim to capture the regal Empire State Building, vibrant Times Square, historic Grand Central Station, massive Central Park, or one of New York City's many other landmarks, this portable resource goes where you go and walks you through valuable tips and techniques for taking the best shot possible.\n\nYou'll discover suggested locations for taking photos, recommended equipment, what camera settings to use, best times of day to photograph specific attractions, how to handle weather challenges, and more. In addition, beautiful images of New York City's most breathtaking attractions and recognizable landmarks serve to both inspire and assist you as you embark on an amazing photographic adventure!",
+      "url": "http://amzn.to/dfgnyc"
+    },
     {
       "name": "Leading Change from the Edge",
       "publisher": "EDUCAUSE Enterprise IT CIO Summit 2013",
       "releaseDate": "2013-07-31",
       "summary": "Higher Education is changing rapidly, and as technologists we need to be willing to change with it and lead when appropriate. There is an opportunity to lead rapid change and innovation pursuing distributed, collaborative, transformative projects.",
       "url": "https://prezi.com/s7pfbkaraue1/educause-enterprise-it-2013/"
-    },
-    {
-      "name": "Light, Color & Gesture in Photography",
-      "publisher": "Tolland Academy of the Arts",
-      "releaseDate": "2013-04-30",
-      "summary": "Photography is the art of light. At its most basic, a photograph is capturing light and recording it on a two dimensional plane. As one proceeds down your photographic journey, you begin to recognize hugely varying qualities of light, and how light, and the absence of light, can define a scene and am image. As my friend Rick Sammon often says, “Light illuminates, Shadows define.”\n\nColor and light are as intricately linked as, well, electricity and magnetism. My geek readers will appreciate the analogy… or lack of analogy. The range and strength of color can draw your attention, bring memories to the forefront, or drive your attention to vacillate between two complementary colors in a scene. Even the lack of color in a black and white image is important, as our expectations and experiences will let us fill in what we expect to see in our mind’s eye.\n\nLight and Color are the two aspects for which most photographers and viewers are most familiar, even if they have not thought of them as explicitly defined in this way. The final component, however, is just as important but less commonly thought of as a direct function of an image.\n\nWhat is Gesture? Gesture is movement, an expression, an essence. Gesture is most easily explained in the context of an image of a person but is not constrained there. In fact, what I personally found the most moving, and challenging, is the extension of Gesture to inanimate objects.",
-      "url": "http://jeremypollack.net/tag/aot2013/"
     },
     {
       "name": "The UConn vPC: A Collaborative Story about Desktop Virtualization",
@@ -226,11 +230,11 @@
       "url": "http://digitalcommons.uconn.edu/libr_pres/36/"
     },
     {
-      "name": "Photographing New York City Digital Field Guide",
-      "publisher": "Wiley Publishing",
-      "releaseDate": "2010-12-31",
-      "summary": "http://amzn.to/1MOiHwJ\n\nTake memorable photos of the most popular attractions in the Big Apple!\n\nWhether using a point-and-shoot or a high-end dSLR, this companion guide provides you with detailed information for taking amazing shots of one of one of the world's most photographed cities. Whether you aim to capture the regal Empire State Building, vibrant Times Square, historic Grand Central Station, massive Central Park, or one of New York City's many other landmarks, this portable resource goes where you go and walks you through valuable tips and techniques for taking the best shot possible.\n\nYou'll discover suggested locations for taking photos, recommended equipment, what camera settings to use, best times of day to photograph specific attractions, how to handle weather challenges, and more. In addition, beautiful images of New York City's most breathtaking attractions and recognizable landmarks serve to both inspire and assist you as you embark on an amazing photographic adventure!",
-      "url": "http://amzn.to/dfgnyc"
+      "name": "Light, Color & Gesture in Photography",
+      "publisher": "Tolland Academy of the Arts",
+      "releaseDate": "2013-04-30",
+      "summary": "Photography is the art of light. At its most basic, a photograph is capturing light and recording it on a two dimensional plane. As one proceeds down your photographic journey, you begin to recognize hugely varying qualities of light, and how light, and the absence of light, can define a scene and am image. As my friend Rick Sammon often says, “Light illuminates, Shadows define.”\n\nColor and light are as intricately linked as, well, electricity and magnetism. My geek readers will appreciate the analogy… or lack of analogy. The range and strength of color can draw your attention, bring memories to the forefront, or drive your attention to vacillate between two complementary colors in a scene. Even the lack of color in a black and white image is important, as our expectations and experiences will let us fill in what we expect to see in our mind’s eye.\n\nLight and Color are the two aspects for which most photographers and viewers are most familiar, even if they have not thought of them as explicitly defined in this way. The final component, however, is just as important but less commonly thought of as a direct function of an image.\n\nWhat is Gesture? Gesture is movement, an expression, an essence. Gesture is most easily explained in the context of an image of a person but is not constrained there. In fact, what I personally found the most moving, and challenging, is the extension of Gesture to inanimate objects.",
+      "url": "http://jeremypollack.net/tag/aot2013/"
     }
   ],
   "skills": [
@@ -475,9 +479,9 @@
       "keywords": []
     },
     {
-      "name": "Retail",
+      "name": "Industries",
       "level": "",
-      "keywords": []
+      "keywords": ["Fortune 500","Financial Services","Consumer Brands","Government","Healthcare","Retail","Higher Education",]
     },
     {
       "name": "E-commerce",
@@ -533,7 +537,10 @@
   "languages": [
     {
       "language": "English",
-      "fluency": "Native Speaker"
+      "fluency": "Native Speaker",
+      "language": "Visual Communication",
+      "fluency": "Native Speaker",
+      
     }
   ],
   "interests": [],
